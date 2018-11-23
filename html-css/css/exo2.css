@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+header{
+    background: red;
+    height: 100px;
+}
+header h1{
+    text-align: center;
+    padding-top: 8px;
+}
+nav{
+    background: rebeccapurple;
+    height: 75px;
+    margin: 0;
+}
+nav h2{
+    text-align: center;
+    padding-top: 8px;
+
+}
+section{
+    height: 500px;
+    
+}
+footer{
+    background: red;
+    height: 50px;
+}
+footer h3{
+    text-align: center;
+}
+article{
+    width: 200px;
+    height: 500px;
+    background: blue;
+    float: right;
+}

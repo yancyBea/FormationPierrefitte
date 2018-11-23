@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+}
+header{
+    background: red;
+    height: 100px;
+}
+header h1{
+    text-align: center;
+    padding-top: 8px;
+}
+nav{
+    background: rebeccapurple;
+    height: 75px;
+    margin: 0;
+}
+nav h2{
+    text-align: center;
+    padding-top: 8px;
+
+}
+section{
+    height: 500px;
+    
+}
+footer{
+    background: red;
+    height: 50px;
+}
+footer h3{
+    text-align: center;
+}
+
+.aa{
+    background: aquamarine;
+    width: 100%;
+    height:100px;
+}
+.aaa{
+    width: 50%;
+    height: 300px;
+    background: coral;
+    float: left;
+}
+.bb{
+    width: 50%;
+    height: 300px;
+    background:yellow;
+    float: right;
+}
+.bbb{
+    background: violet;
+    width: 100%;
+    height:100px;
+    margin-top: 300px;
+}

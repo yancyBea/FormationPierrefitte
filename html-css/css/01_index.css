@@ -1,0 +1,75 @@
+body {
+   background-color: paleturquoise;
+    
+} 
+h1, h2, h3, h4, h5, h6, p, ol, ul{
+    font-family: 'Josefin-Sans', sans-serif;
+    color: black;
+}
+
+h1{
+    margin-left: 50%;
+}
+h2{
+    margin-left: 2%;
+}
+h3{
+    margin-left: 4%;
+}
+h4{
+    margin-left: 6%;
+}
+h5{
+    margin-left: 8%;
+}
+h6{
+    margin-left: 10%;
+}
+
+.pp{
+    font-family: 'Allerta Stencil', sans-serif;
+    margin-left: 30%;
+    font-size: 20px;
+}
+.ppp{
+    font-family: 'Allerta Stencil', sans-serif;
+    margin-left: 30%;
+    font-size: 20px;
+}
+.aa{
+    font-family: 'Allerta Stencil', sans-serif;
+    color: violet;
+}
+.aaa{
+    font-family: 'Allerta Stencil', sans-serif;
+    color: violet;
+    margin-left: 2%;
+}
+
+.cc{
+    margin-left: 5%;
+    color: thistle;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+
+.ccc{
+    margin-left: 40%;
+    font-size: 30px;
+}
+.tkt{
+    color: red;
+    margin-left: 20%;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+
+.oo{
+    color: purple;
+    font-size: 70px;
+    margin-left: 40%;
+    font-family: 'Signika', sans-serif;
+}
+.end{
+   margin-left: 40%;
+}
