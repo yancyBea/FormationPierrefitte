@@ -1,0 +1,92 @@
+body{
+    background: rgba(97, 19, 71, 0.418);
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+}
+fieldset{
+    margin: 20px 0;
+    padding: 10px;
+}
+fieldset:hover{
+    box-shadow: 0 0 20px rgb(255, 0, 212);
+}
+.ip{
+    background: rgb(187, 172, 187);
+    color: black;
+ }
+ .ip label{
+     color: black;
+     width: 200px;
+     display: inline-block;
+     padding: 10px 0px 15px 40px;
+ }
+ .ip input{
+     width: 300px;
+     height: 20px;
+     color: #fff;
+     background: black;
+ }
+ .is{
+     background:rgb(187, 172, 187);
+     color: black;
+ }
+ .is label{
+     color: black;
+     width: 100px;
+     display: inline-block;
+     padding: 5px 0 15px 10px;
+
+ }
+ .is input{
+     width: 10px;
+     height: 20px;
+}
+
+.if input{
+     width: 300px;
+     height: 20px;
+ }
+ .if{
+    background:rgb(187, 172, 187);
+    color: black;
+}
+
+.if label{
+    color: black;
+    display: inline-block;
+    width: 100px;
+    padding: 10px 0 10px 40px;
+
+}
+legend{
+    background: rgb(201, 136, 184);
+    padding: 5px;
+    color: whitesmoke;
+    font-size: 18px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+input[type=checkbox], input[type=radio]  {
+    width: 30px;
+}
+
+input[type=text]:focus, input[type=email]:focus, input[type=tel]:focus, input[type=password]:focus, input[type=date]:focus, input[type=textarea]:focus{
+    border: 5px double purple;
+}
+
+input[type=submit] {
+    width: 20%;
+    color:grey;
+    background:  whitesmoke;
+    font-size: 16px;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    text-transform: uppercase;
+    margin-left: 40%;
+}
+input[type=submit]:hover{
+    background: palegreen;
+}

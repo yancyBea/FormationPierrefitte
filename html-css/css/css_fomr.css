@@ -1,0 +1,110 @@
+
+body{
+    background: rgba(22, 23, 70, 0.418);
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+}
+.se{
+    background: rgb(127, 197, 243);
+    color: black;
+    text-align: center;
+}
+.se label{
+    color: black;
+    width: 200px;
+    display: inline-block;
+    padding: 10px 0px 15px 40px;
+    tex
+}
+.aa{
+    text-align: initial;
+}
+.ip{
+    background: rgb(127, 197, 243);
+    color: black;
+ }
+ .ip label{
+     color: black;
+     width: 200px;
+     display: inline-block;
+     padding: 10px 0px 15px 40px;
+ }
+ .ip input{
+     width: 300px;
+     height: 20px;
+     color: #fff;
+     background: rgba(163, 249, 255, 0.418);
+}
+
+.na{
+    background: rgb(127, 197, 243);
+    color: black;
+ }
+.na label{
+    color: black;
+    width: 200px;
+    display: inline-block;
+    padding: 10px 0px 15px 40px;
+}
+.na input{
+    width: 300px;
+     height: 20px;
+     color: #fff;
+     background: rgba(163, 249, 255, 0.418);
+}
+
+.ad{
+    background: rgb(127, 197, 243);
+    color: black;
+ }
+.ad label{
+    color: black;
+    width: 200px;
+    display: inline-block;
+    padding: 10px 0px 15px 40px;
+}
+.ad input{
+    width: 300px;
+     height: 20px;
+     color: #fff;
+     background: rgba(163, 249, 255, 0.418);
+}
+
+.ph{
+    background: rgb(127, 197, 243);
+    color: black;
+ }
+.ph label{
+    color: black;
+    width: 200px;
+    display: inline-block;
+    padding: 10px 0px 15px 40px;
+}
+.ph input{
+    width: 300px;
+     height: 20px;
+     color: #fff;
+     background: rgba(163, 249, 255, 0.418);
+}
+
+.mdp{
+    background: rgb(127, 197, 243);
+    color: black;
+ }
+.mdp label{
+    color: black;
+    width: 200px;
+    display: inline-block;
+    padding: 10px 0px 15px 40px;
+}
+.mdp input{
+    width: 300px;
+     height: 20px;
+     color: #fff;
+     background: rgba(163, 249, 255, 0.418);
+}
+
+
+
+

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/formulaire.css">
+</head>
+<body>
+    <h1>mon premier formulaire</h1>
+    <form>
+        <fieldset class="ip">
+            <legend>info perso</legend>
+                <label for="name">name</label>
+                <input type="text" name="name" id="name"><br>
+        
+                <label for="email">email</label>
+                <input type="email" name="email" id="email"><br>
+        
+                <label for="telephone">telephone</label>
+                <input type="tel" name="telephone" id="telephone"><br>
+        
+                <label for="mot de passe"> mot de passe</label>
+                <input type="password" name="mot de passe" id="mot de passe"><br>
+        
+        </fieldset>
+        
+        <fieldset class="is"> 
+            <legend>checkbox</legend>
+            <label for="radio">homme</label>
+            <input type="radio" name="radio" id="radio" value="homme">
+    
+            <label for="radio">femme</label>
+            <input type="radio" name="radio" id="radio" value="femme"><br>
+            
+            <label for="item_01">item_01</label>
+            <input type="checkbox" name="item_01" id="item_01" value="item_01">
+            <label for="item_02">item_02</label>
+            <input type="checkbox" name="item_02" id="item_02" value="item_02">
+            <label for="item_03">item_03</label>
+            <input type="checkbox" name="item_03" id="item_03" value="item_03">
+            <label for="item_04">item_04</label>
+            <input type="checkbox" name="item_04" id="item_04" value="item_04">
+            <label for="item_05">item_05</label>
+            <input type="checkbox" name="item_05" id="item_05" value="item_05"><br>
+         </fieldset>
+
+         <fieldset class="if">
+             <legend>date etc</legend>
+             <label for="textarea">texte</label>
+            <textarea name="textarea" id="textarea" cols="100" rows="30"></textarea><br>
+    
+            <label for="date">date</label>
+            <input type="date" name="date" id="date"><br>
+    
+           
+    
+            <label for="select">pays</label>
+            <select name="select" id="select">
+                <option>selectioner un pays</option>
+            <optgroup label="europe"> 
+                <option value="france">france</option>
+                <option value="allemagne">allemagne</option>
+                <option value="belgique">belgique</option>
+            </optgroup>
+    
+            <optgroup label="afrique">
+                <option value="mauritanie">mauritanie</option>
+                <option value="mali">mali</option>
+                <option value="gabon">gabon</option>
+            </optgroup>
+        </select><br>
+    </fieldset>
+        
+
+        <input type="submit" value="envoyer" name="button" id="button">
+    </form>
+</body>
+</html>

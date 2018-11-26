@@ -1,0 +1,107 @@
+body{
+    background: url(../img/ville.jpg) no-repeat;
+}
+ nav{
+    margin-left: 23%; 
+ }
+nav h1{
+    font-family: 'Indie Flower', cursive;
+    display: inline-block;
+    margin: 5%;
+}
+nav a{
+    color: rgb(255, 255, 255);
+    font-size: 150%;
+}
+nav a:hover{
+    color: aqua;
+}
+
+.gauche{
+    float: left;
+    width: 50%;
+    height: 50px;
+    color: #fff;
+    font-size: 20px;
+}
+.droite{
+    float: right;
+    width: 50%;
+    height: 50px;
+    color:#fff;
+    font-size: 20px;
+}
+.pres, .pres2{
+    width: 50%;
+    margin-left: 450px;
+}
+.pres3, .pres4{
+    width: 45%;
+    margin-left: 180px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.metro{
+    text-align: center;
+    color: tomato;
+}
+img{
+    margin-left: 584px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.to{
+    text-align: center;
+    color: tomato;
+}
+
+.his p{
+    color: snow;
+    text-align: center;
+}
