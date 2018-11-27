@@ -1,0 +1,7 @@
+.arc{
+    background: radial-gradient( circle at center, red, indigo, orange, yellow, purple, blue, green 300px);
+    width: 45em;
+    height:45em;
+    margin: 0 auto;
+    border-radius: 50%;
+}
