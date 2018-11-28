@@ -1,0 +1,32 @@
+body{
+  background: pink; 
+}
+section{
+    width: 60%;
+    margin: 0 auto;
+}
+td{
+    width: 3em;
+    height: 3em;
+}
+.black{
+    background: black;
+}
+.brown{
+    background: #312519;
+}
+.brown2{
+    background: #5a422b;
+}
+.beige{
+    background: #FEAA7E;
+}
+.brown3{
+    background: #433220;
+}
+.beige2{
+    background: #FE9964;
+}
+.vert{
+    background: #31481A;
+}

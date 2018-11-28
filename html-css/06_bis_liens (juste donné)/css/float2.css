@@ -1,0 +1,39 @@
+.c1, .c2, .c3, .c4, .c5, .c6{
+    height: 10em;
+    width: 10em;
+    float: left;
+    /* display: inline-block; */
+    text-align: center;
+    margin: 5px;
+}
+.c1{
+    background: green;
+    border-radius: 5% 10% 20% 30%; 
+    border: 2px solid black;
+}
+.c2{
+    background: rgb(0, 174, 255);
+    border-radius: 20% 0 20% 0%;
+    border: 2px solid black;
+}
+.c3{
+    background: rgb(0, 255, 213);
+    border-radius: 50%;
+    border: 2px solid black;
+}
+.c4{
+    background: plum;
+    border-radius: 10% 30% 10% 30%;
+    border: 2px solid black;
+}
+.c5{
+    background: red;
+    border-radius: 10% 30% 10% 30%;
+    border: 2px solid black;
+}
+.clear{
+    clear: both;
+}
+p{
+    text-align: center;
+}
