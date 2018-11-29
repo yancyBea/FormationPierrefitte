@@ -1,0 +1,70 @@
+header{
+    width: 100%;
+    background: rgb(56, 54, 54);
+    height: 200px;
+}
+header nav{
+    display: inline-block;
+   float: right;
+   margin: 3%;
+}
+header a{
+    color: whitesmoke;
+    font-size: 20px;
+}
+header a:hover{
+    color: turquoise;
+}
+.big{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 2%;
+}
+.triple{
+    width: 50%;
+    margin: 0 auto;
+    /* margin-top: 2%; */
+    height: 200px;
+    
+}
+.petite, .petite2, .petite3, .petite4{
+    width: 23%;
+    /* margin: 0 auto; */
+    /* margin-top: 2%; */
+    /* background: black; */
+    float: left;
+    padding: 1%;
+}
+.petite, .petite2, .petite3, .petite4 p{
+    /* width: 25%;
+    /* margin: 0 auto; */
+    /* margin-top: 2%; */
+    /* background: black; */
+    /* float: left; */ 
+    text-align: left;
+
+}
+/* .clear{
+    clear: both;
+} */
+.petiteimage{
+    float: left;
+    margin: 2%;
+}
+.triple a {
+    float: right;
+    color: orange;
+}
+.triple2{
+    width: 50%;
+    margin: 50px auto;
+}
+.triple2 a{
+    float: right;
+    color: orange;
+    margin-top: 10px;
+}
+.triple2 div{
+    width: 33.3%;
+    float: left; 
+}
