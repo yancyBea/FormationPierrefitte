@@ -1,0 +1,60 @@
+body{
+    font-family: sans-serif;
+    font-size: 1.5em;
+}
+.contenu{
+    width: 80%;
+    margin: 0 auto;
+}
+.gauche, .droite{
+    margin-top: 5em;
+}
+.gauche ul{
+    margin: 3.2em 0 0 0;
+}
+.gauche ul li{
+    width: 10em;
+    padding: 1em;
+    border-left: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+.gauche ul li:first-child{
+    border-top: 1px solid #ccc;
+}
+ul.liste li{
+    border-left: 1px solid #ccc
+}
+.droite .change ul li{
+    width: 10em;
+    padding: 1em;
+    text-align: center;
+    border-top: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+.droite .change ul li:first-child{
+    color: white;
+    font-weight: bold;
+    background: #5d5d5d;
+}
+.droite .change ul li:last-child{
+    border-bottom: 1px solid #ccc;
+}
+.droite .change ul:hover{
+    cursor: pointer;
+    transform: scale(1.4);
+    transition-duration: 2s;
+    background: linear-gradient(#d5d5d5, #8A8A8A);
+}
+.droite .change ul:hover li:first-child{
+    
+}
+ul{
+    list-style: none;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+.video, .carte{
+    width: 50%;
+    float: left;
+}

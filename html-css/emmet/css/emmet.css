@@ -1,0 +1,28 @@
+body{
+    font-family: 'open sans', sans-serif;
+    background: url(../img/bkg.jpg);
+    background-repeat: repeat;
+}
+header{
+    background: #333333;
+    text-align: center;
+    color: #ffffffff;
+    height: 80px;
+    /* line-height: 2.5; */
+}
+h1{
+    padding: 1vw;
+}
+div{
+    background: white;
+    color:#000;
+    padding: 1vw;
+}
+code{
+    font-size: 1.5vw;
+    font-style: italic;
+    background: lightgrey;
+}
+img{
+    margin:  1vw 0 1vw 0;
+}
