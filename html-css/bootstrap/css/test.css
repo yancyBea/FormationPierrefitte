@@ -1,0 +1,33 @@
+.col-md-12{
+    border: 1px solid black;
+    height: 100px;
+}
+.col-md{
+    border:1px solid black;
+    height: 100px;
+}
+.deuxieme{
+    border:1px solid black;
+    height: 50px;
+}
+.troisieme{
+    border:1px solid black;
+    height: 50px;
+}
+.grand{
+    border: 1px solid black;
+    height: 200px;
+}
+.petit{
+    border: 1px solid black;
+    height: 200px;
+}
+.momo{
+    border: 1px solid black;
+    height: 30px;
+}
+
+.youpi{
+    border: 1px solid black;
+    height: 20px;
+}
