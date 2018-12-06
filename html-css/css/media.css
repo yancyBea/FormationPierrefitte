@@ -1,0 +1,14 @@
+.respon{
+    background: aqua;
+    height: 100px;
+}
+@media screen and (max-width: 700px){
+    .respon{
+        background: antiquewhite;
+    }
+}
+@media screen and (min-width: 700px) and (max-width: 1000px) {
+    .respon{
+        background: red;
+    }
+}
