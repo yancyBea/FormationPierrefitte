@@ -1,0 +1,22 @@
+body{
+    background-image: url(../img/background.png)
+}
+
+header{
+    height: 100px;
+    background-color: #C55394;
+    margin: 0 auto;
+    width: 100%;
+
+
+}
+
+nav a{
+    float: right;
+    margin: 20px;
+    margin-top: 0;
+}
+.titre{
+    color: white;
+    margin: 0;
+}

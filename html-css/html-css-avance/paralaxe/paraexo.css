@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body, html{
+    height: 100%;
+}
+
+.parallax{
+    background: url(img/caraibes_martinique_boucaniers.jpg);
+    height: 100%;
+    /* les propriete parallax */
+     background-attachment: fixed; /*attache limage par rapport a lecran afin deviter quel ne defile au moment du scroll */
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+.parallaxx{
+    background: url(img/pc.jpg);
+    height: 100%;
+    /* les propriete parallax */
+     background-attachment: fixed; /*attache limage par rapport a lecran afin deviter quel ne defile au moment du scroll */
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+div.scroll{
+    height: 280px;
+    font-size:36px;
+}
+div.scroll p{
+    margin: 0;
+}
+
+#scroll-1{
+        
+}
