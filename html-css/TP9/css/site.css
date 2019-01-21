@@ -1,0 +1,157 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 50rem;
+    margin-left: 10em;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+
+header{
+    background: url(../images/header_bg.jpg) no-repeat;
+    background-size: 100% 100%;
+    height: 700px;
+
+        /* The image used */
+      
+        /* Set a specific height */ 
+      
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-position: center;
+        /* background-repeat: no-repeat;
+        background-size: cover; */
+      }
+    /* opacity: 0.6; */
+    
+
+
+.centre{
+    position: relative;
+    bottom: 700px;
+}
+
+.scroll-1{
+    position: relative;
+    top: 208px;
+    /* left: 40%; */
+}
+
+.scroll-1 h1{
+    text-align: center;
+}
+.scroll-1 p{
+    text-align: center;
+}
+
+.scroll-1 img{
+    margin-left: 930px;
+}
+
+.scroll-2{
+    margin-top: 440px;
+}
+
+.scroll-2 p{
+    text-align: center;
+}
+
+.gray{
+    height: 100%;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.quali-1{
+    width: 100%;
+}
+
+.quali{
+    text-align: center;
+    margin-top: 100px;
+}
+.logoo{
+    margin-bottom: 25px;
+    color: red;
+}
+
+.scroll-3{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.progress{
+    height: 0.5em;
+}
+
+.pourcent{
+    margin-top: 70px;
+}
+ .ecart p {
+     margin-top: 5px;
+ }
+ .progress-bar{
+     background: rgb(255, 0, 64);
+ }
+
+ .progress-bar-striped {
+    background-image: linear-gradient(45deg,rgba(255, 245, 245, 0.15) 25%,transparent 25%,transparent 50%,rgba(255,245,255,.15) 50%,rgba(255,245,255,.15) 75%,transparent 75%,transparent);
+ background-size: 1rem 1rem;
+ }
+
+
+ .quote{
+     margin-top: 150px;
+     text-align: center;
+ }
+ .quote img{
+     margin: 0 auto;
+     margin-bottom: 50px;
+ }
+
+
+ .parallax { 
+    /* The image used */
+    background: url(../images/header_bg.jpg);
+    
+    /* Set a specific height */
+    height: 200px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-top: 70px;
+  }
+
+.black{
+      height:  100%;
+      width: 100%;
+      background: rgba(0, 0, 0, 0.5);
+}
+
+.travail{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.travail p{
+    margin-top: 50px;
+}
+
+
+.tout{
+    width: 100%;
+}
+
+.tout img{
+    width: 33%; 
+}
